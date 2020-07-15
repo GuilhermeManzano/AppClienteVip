@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/rvPrimeiroNome"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="@string/txtCliente"
+        android:textColor="@color/colorPrimary" />
+
+    <Button
+        android:id="@+id/rvPessoaFisica"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="14sp" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

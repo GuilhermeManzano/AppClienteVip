@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">App Cliente Vip</string>
+
+    <string name="txtNovoVip">Novo Vip</string>
+    <string name="txtPrimeiroNome">Primeiro Nome</string>
+    <string name="txtSobreNome">Sobrenome</string>
+    <string name="txtHintSobreNome">Digite seu sobrenome...</string>
+    <string name="txtPessoaFisica">Pessoa Física</string>
+    <string name="btnSalvarContinuar">SALVAR E CONTINUAR</string>
+    <string name="btnCancelar">CANCELAR</string>
+
+    <!-- tela novo cliente pessoa física -->
+    <string name="txtClientePessoaFisica">Pessoa Física</string>
+    <string name="txtCPF">CPF</string>
+    <string name="txtHintCPF">Digite seu CPF</string>
+    <string name="txtNomeCompleto">Nome completo</string>
+    <string name="txtHintNomeCompleto">Nome completo igual do CPF...</string>
+
+    <!-- tela novo cliente pessoa jurídica -->
+    <string name="txtClientePessoaJuridica">Pessoa Jurídica</string>
+    <string name="txtCNPJ">CNPJ</string>
+    <string name="txtHintCNPJ">Digite seu CNPJ</string>
+    <string name="txtRazaoSocial">Razao Social</string>
+    <string name="txtHintRazaoSocial">Razao Social igual do cartão CNPJ</string>
+    <string name="txtDataAberturaPJ">Data de Abertura da Empresa</string>
+    <string name="txtSimplesNacional">Simples Nacional</string>
+    <string name="txtMEI">MEI</string>
+
+    <!-- tela recuperar senha -->
+    <string name="txtRecuperarSenha">Recuperar Senha</string>
+    <string name="txtHintEmailCadastrado">Digite o e-mail cadastrado</string>
+    <string name="btnRecuperar">RECUPERAR</string>
+    <string name="btnMeusDados">MEUS DADOS</string>
+    <string name="btnAtualizarMeusDados">ATUALIZAR MEUS DADOS</string>
+    <string name="btnExcluirMinhaConta">EXCLUIR MINHA CONTA</string>
+    <string name="btnConsultarClientesVip">CONSULTAR CLIENTES VIP</string>
+    <string name="btnSairDoAplicativo">SAIR DO APLICATIVO</string>
+    <string name="txtCliente">Cliente</string>
+</resources>
